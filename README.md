@@ -33,9 +33,9 @@ CREATE TABLE netflix (
     listed_in VARCHAR(250),
     description VARCHAR(550)
 );
-'''
+```
 
-## Findings and Conclusion
+## Overall Conclusion
 
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 
